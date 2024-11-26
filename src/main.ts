@@ -14,7 +14,7 @@ export class App {
   name = 'Angular';
 }
 
-@component({
+@Component({
   selector:'menu',
   standalone: true,
   templateUrl:'./menu.component.html',
